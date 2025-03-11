@@ -3,9 +3,12 @@ Antes de empezar a trabajar con diferentes plataformas que brindan herramientas 
 ## Tema 1: Programando un Robot Humano (Actividad sin Pantalla)
 
 **Objetivo:** Aprender que es un algoritmo mediante instrucciones paso a paso.
+
 **Casos de imaginación:** Imaginar un robot humano que hace lo que le pedimos.
+
 **Herramienta a utilizar:** Usaremos la plataforma de Excalidraw e importaremos el siguiente
-garabato. [Archivo](https://drive.google.com/file/d/1GSiqQZ43swTtNvtDfeirHPGrARQH03u9/view?usp=sharing) 
+garabato. [Archivo](https://drive.google.com/file/d/1GSiqQZ43swTtNvtDfeirHPGrARQH03u9/view?usp=sharing) .
+
 **Tareas a realizar:** Darle instrucciones a nuestro robot para que pueda hacer un sandwich.
 
 # Módulo 2: Primeros pasos con Scratch
